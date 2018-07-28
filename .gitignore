@@ -1,0 +1,8 @@
+__init__.py
+__pycache__/
+manage.py
+*.swp
+bin
+include
+lib
+pip-selfcheck.json
